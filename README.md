@@ -17,7 +17,7 @@ Information about the food and the recipes are stored in a postgresql database.
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+## Getting Startedd
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
