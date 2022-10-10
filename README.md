@@ -1,15 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Capstone-RoR project
 
-> Description the project.
+> A recipe app made with Ruby on Rails, where you can add food items and create recipes. 
+Information about the food and the recipes are stored in a postgresql database.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby on Rails
+- Postgresql
+- VS code, git, github, rubocop
 
 ## Live Demo (if available)
 
