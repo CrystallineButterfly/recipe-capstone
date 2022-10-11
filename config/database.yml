@@ -5,13 +5,14 @@
 #   gem "sqlite3"
 #
 default: &default
-  adapter: sqlite3
+ adapter: postgresql
+  encoding: unicode
+  # For details on connection pooling, see Rails configuration guide
+  # https://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-  timeout: 5000
-
 development:
   <<: *default
-  database: db/development.sqlite3
+  database:  recipe_capstone
   username: postgres
   password: trance
 
@@ -20,12 +21,12 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: db/test.sqlite3
+  database:  recipe_capstone_test
   username: postgres
   password: trance
 
 production:
   <<: *default
-  database: db/production.sqlite3
+  database: recipe_capstone
   username: postgres
   password: trance
