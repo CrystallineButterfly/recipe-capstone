@@ -13,25 +13,25 @@
   <% end %>
 
   <div>
-    <%= form.label :name, style: "display: block", class: "block text-body-dark font-semibold text-base leading-none mb-3" %> <i>(That good 'ol Recipe name)</i>
+    <%= form.label :name, style: "display: block", class: "block text-body-dark font-semibold text-base leading-none mb-3" %> <i>(Recipe name)</i>
     <%= form.text_field :name, class: "px-4 flex items-center w-full rounded appearance-none transition duration-300 ease-in-out text-heading text-base focus:outline-none focus:ring-0 border border-border-base focus:border-accent h-10" %>
   </div>
   <br />
 
   <div>
-    <%= form.label :preparation_time, style: "display: block", class: "block text-body-dark font-semibold text-base leading-none mb-3" %> <i>(hr/m)<i>
+    <%= form.label :preparation_time, style: "display: block", class: "block text-body-dark font-semibold text-base leading-none mb-3" %> <i>(hrs)<i>
     <%= form.number_field :preparation_time, class: "px-4 flex items-center w-full rounded appearance-none transition duration-300 ease-in-out text-heading text-base focus:outline-none focus:ring-0 border border-border-base focus:border-accent h-10" %>
   </div>
   <br />
 
   <div>
-    <%= form.label :cooking_time, style: "display: block", class: "block text-body-dark font-semibold text-base leading-none mb-3" %> <i>(hr/m)<i>
+    <%= form.label :cooking_time, style: "display: block", class: "block text-body-dark font-semibold text-base leading-none mb-3" %> <i>(hrs)<i>
     <%= form.number_field :cooking_time, class: "px-4 flex items-center w-full rounded appearance-none transition duration-300 ease-in-out text-heading text-base focus:outline-none focus:ring-0 border border-border-base focus:border-accent h-10" %>
   </div>
   <br />
 
   <div>
-    <%= form.label :description, style: "display: block", class: "block text-body-dark font-semibold text-base leading-none mb-3" %> <i>(Write your recipe below)</i>
+    <%= form.label :description, style: "display: block", class: "block text-body-dark font-semibold text-base leading-none mb-3" %> <i>(Write your recipe here:)</i>
     <%= form.text_area :description, class: "px-4 flex items-center w-full rounded appearance-none transition duration-300 ease-in-out text-heading text-base focus:outline-none focus:ring-0 border border-border-base focus:border-accent h-10" %>
   </div>
   <br />
