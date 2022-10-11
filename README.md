@@ -2,9 +2,8 @@
 
 # Capstone-RoR project
 
-> A recipe app made with Ruby on Rails, where you can add food items and create recipes. 
-Information about the food and the recipes are stored in a postgresql database.
-
+> A recipe app made with Ruby on Rails, where you can add food items and create recipes.
+> Information about the food and the recipes are stored in a postgresql database.
 
 ## Built With
 
@@ -16,12 +15,10 @@ Information about the food and the recipes are stored in a postgresql database.
 
 [Live Demo Link](https://livedemo.com)
 
-
-## Getting Startedd
+## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -36,8 +33,6 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-
-
 
 ## Authors
 
