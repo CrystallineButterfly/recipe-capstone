@@ -101,25 +101,27 @@ Open the project in your favorite code editor. `code .` for VS Code.
 
 
 ## Author1
-👤 **Sodiq**
+👤 **K42**
 
-- GitHub: [@deyemiobaa](https://github.com/deyemiobaa)
-- Twitter: [@deyemiobaa](https://twitter.com/deyemiobaa)
-- LinkedIn: [Sodiq Aderibigbe](https://linkedin.com/in/sodiqa)
+- GitHub: [@Crystallinebutterfly](https://github.com/crystallinebutterfly)
+- Twitter: [@CrystAlline_k42](https://twitter.com/crystAlline_k42)
+- Buy me a coffee: [K42](https://www.buymeacoffee.com/crystallinek42)
 
 
 ## Author2
-👤 **STEVE W DAMES JR**
+👤 **MICHAELMUNAVU83**
 
-- GitHub: [@githubhandle](https://github.com/steveWDamesJr)
-- Twitter: [@twitterhandle](https://twitter.com/Steve88312331)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/steve-w-dames-jr/)
+- GitHub: [@MICHAELMUNAVU83](https://github.com/MICHAELMUNAVU83)
+- Twitter: [@twitterhandle](https://twitter.com/MichealTrance1)
+- LinkedIn: [Micheal-munavu](https://www.linkedin.com/in/michael-munavu/
+)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/steveWDamesJr/recipe-app/issues).
+Feel free to check the [issues page](https://github.com/CrystallineButterfly/recipe-capstone/issues
+).
 
 
 ## Show your support
