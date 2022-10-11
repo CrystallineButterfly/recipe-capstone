@@ -14,7 +14,7 @@ development:
   <<: *default
   database:  recipe_capstone
   username: postgres
-  password: trance
+  password: postgres
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -23,10 +23,10 @@ test:
   <<: *default
   database:  recipe_capstone_test
   username: postgres
-  password: trance
+  password: postgres
 
 production:
   <<: *default
   database: recipe_capstone
   username: postgres
-  password: trance
+  password: postgres
